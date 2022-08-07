@@ -1,6 +1,6 @@
 /**
 * Name: Finalbatch
-* Tags: Leishmania , Rodent , Transmission 
+* Tags: Leishmania , Rodent , human, Transmission 
 */ model Finalbatch
 
 global {
